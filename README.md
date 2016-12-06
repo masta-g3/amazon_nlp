@@ -1,2 +1,2 @@
-# amazon_nlp
+# Amazon NLP
 Predicting company revenue from Amazon reviews.
